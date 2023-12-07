@@ -36,11 +36,10 @@
 
 .characterWrapper {
     position: fixed;
-    top: 0;
-    right: 0;
-    height: 75%;
-    width: 50%;
-    padding: 128px 15px 15px 30px;
+    top: 5%;
+    left: 55%;
+    bottom: 20%;
+    min-height: 500px;
 }
 
 .controlColumn {
