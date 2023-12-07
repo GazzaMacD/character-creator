@@ -15,9 +15,6 @@ body {
     font-family: "Poppins", sans-serif;
     box-sizing: border-box;
 }
-a {
-    color: hsl(0deg, 0%, 100%);
-}
 
 /*
   A utility class to totally remove something from the screen,
